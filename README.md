@@ -1,11 +1,11 @@
 # Rodrigo Haruo Noguti
 
 ## Hello 👋
-Computer scientist and project manager. Fan of oriental culture, web development, leadership and entrepreneurship stuff :)
+Computer scientist and project manager. Fan of Asian culture, web development, leadership and entrepreneurship :)
 <br/> I'm a FullStack Developer :computer:
 
  <br/> Aiming to colaborate in backend projects using Node
- <br/> But I still can help you with frontend stuff using HTML/CSS and React
+ <br/> But I also can help you with frontend stuff using HTML/CSS and React
  <br/> Experienced in PHP using CodeIgniter and Wordpress
  <br/> Focusing on: NodeJS, ReactJS, React Native & Typescript
  
