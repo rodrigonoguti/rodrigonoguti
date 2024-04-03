@@ -8,6 +8,9 @@ Computer scientist and project manager. Fan of Asian culture, web development, l
  <br/> But I also can help you with frontend stuff using HTML/CSS and React
  <br/> Experienced in PHP using CodeIgniter and Wordpress
  <br/> Focusing on: NodeJS, ReactJS & Typescript
+
+### Professional profiles:
+- [@foxbox-rodrigo-noguti](https://github.com/foxbox-rodrigo-noguti)
  
  <br/> :email: &nbsp; Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoNoguti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-noguti-itachi/)](https://www.linkedin.com/in/rodrigo-noguti-itachi/) 
  
@@ -20,5 +23,8 @@ Cientista da computação e gerente de projetos. Curto cultura oriental, desenvo
  <br/> Mas também posso te ajudar com Front-end, utilizando HTML/CSS e React
  <br/> Tenho muita experiência em PHP com CodeIgniter, além de Wordpress
  <br/> Meu foco atual está na seguinte stack: NodeJS, ReactJS & Typescript
+
+### Perfis profissionais:
+- [@foxbox-rodrigo-noguti](https://github.com/foxbox-rodrigo-noguti)
  
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoNoguti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-noguti-itachi/)](https://www.linkedin.com/in/rodrigo-noguti-itachi/) 
